@@ -10,9 +10,9 @@
 
 ## Live Demo
 
-[Live Demo]()
+[Live Demo](https://jagercg.github.io/Project4-WebGPU-Forward-Plus-and-Clustered-Deferred/)
 
-[![Project Preview](img/thumb.png)]()
+[![Project Preview](img/thumb.png)](https://jagercg.github.io/Project4-WebGPU-Forward-Plus-and-Clustered-Deferred/)
 
 ## Demo Video
 
