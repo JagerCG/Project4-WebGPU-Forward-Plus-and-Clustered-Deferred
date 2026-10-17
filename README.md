@@ -16,7 +16,7 @@
 
 ## Demo Video
 
-[Demo Video](img/video.mp4)
+[Watch the 30+ second demo video on Google Drive](https://drive.google.com/file/d/13wgIYbdRcLjX262hgEXtQhP59WYUxr8h/view?usp=sharing)
 
 ---
 
